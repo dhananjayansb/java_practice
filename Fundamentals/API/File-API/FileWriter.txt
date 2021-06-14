@@ -1,0 +1,1 @@
+Checking FileWriter in this code after using throws exception and created method for writing alone
